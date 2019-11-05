@@ -1,0 +1,97 @@
+[
+    {
+        "id": "outerdark",
+        "name": "Outerdark",
+        "sites": [
+            {
+                "disabled": false,
+                "id": "git",
+                "name": "Github",
+                "link": "https://theonewaytruth.github.io/outerdark/"
+            },
+            {
+                "disabled": false,
+                "id": "site",
+                "name": "My Website",
+                "link": "https://outerdark.wick-alexander.de/"
+            }
+        ],
+        "desc": "You are strandet on a planet"
+    },
+    {
+        "id": "knightstein",
+        "name": "Knight Stein",
+        "sites": [
+            {
+                "disabled": true,
+                "id": "git",
+                "name": "Github",
+                "link": "https://theonewaytruth.github.io/knightstein/"
+            },
+            {
+                "disabled": false,
+                "id": "site",
+                "name": "My Website",
+                "link": "https://rpg.wick-alexander.de/"
+            }
+        ],
+        "desc": "Fight your way to the top"
+    },
+    {
+        "id": "passwordgen",
+        "name": "Password Generator",
+        "sites": [
+            {
+                "disabled": true,
+                "id": "git",
+                "name": "Github",
+                "link": "https://theonewaytruth.github.io/passwortgen/"
+            },
+            {
+                "disabled": false,
+                "id": "site",
+                "name": "My Website",
+                "link": "https://passwort.wick-alexander.de/"
+            }
+        ],
+        "desc": "generates strong passwords"
+    },
+    {
+        "id": "bibelkenner",
+        "name": "Bible Quiz",
+        "sites": [
+            {
+                "disabled": true,
+                "id": "git",
+                "name": "Github",
+                "link": "https://theonewaytruth.github.io/bibelkenner/"
+            },
+            {
+                "disabled": false,
+                "id": "site",
+                "name": "My Website",
+                "link": "https://bibelkenner.wick-alexander.de/"
+            }
+        ],
+        "desc": "test your bible knowledge"
+    },
+    {
+        "id": "writertool",
+        "name": "Writer Tool",
+        "sites": [
+            {
+                "disabled": true,
+                "id": "git",
+                "name": "Github",
+                "link": "https://theonewaytruth.github.io/bibelkenner/"
+            },
+            {
+                "disabled": false,
+                "id": "site",
+                "name": "My Website",
+                "link": "https://schreib.wick-alexander.de/"
+            }
+        ],
+        "desc": "write your own book"
+    }
+]
