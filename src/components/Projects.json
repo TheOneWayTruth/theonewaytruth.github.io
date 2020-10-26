@@ -136,5 +136,26 @@
         ],
         "task": "make timeline",
         "status": "draft"
+    },
+    {
+        "id": "bibelkenner",
+        "name": "Bibel Kenner",
+        "desc": "Kennst du die Bibel?",
+        "sites": [
+            {
+                "id": "git",
+                "name": "Github",
+                "disabled": true,
+                "link": "https://theonewaytruth.github.io/empireidle/"
+            },
+            {
+                "id": "site",
+                "name": "My Website",
+                "disabled": false,
+                "link": "https://bibelkenner.wick-alexander.de/"
+            }
+        ],
+        "task": "repair highscores",
+        "status": "prototype"
     }
 ]
