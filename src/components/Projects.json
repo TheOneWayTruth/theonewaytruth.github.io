@@ -1,97 +1,140 @@
 [
     {
-        "id": "outerdark",
-        "name": "Outerdark",
+        "id": "outadark",
+        "name": "Outadark",
+        "status": "prototype",
+        "task": "look into code and rewrite calculation functions",
+        "desc": "You are strandet on a planet",
         "sites": [
             {
+                "id": "kong",
+                "name": "Kongregate",
                 "disabled": false,
+                "link": "https://www.kongregate.com/games/DirkF17/outadark"
+            },
+            {
                 "id": "git",
                 "name": "Github",
+                "disabled": false,
                 "link": "https://theonewaytruth.github.io/outerdark/"
             },
             {
-                "disabled": false,
                 "id": "site",
                 "name": "My Website",
+                "disabled": false,
                 "link": "https://outerdark.wick-alexander.de/"
             }
-        ],
-        "desc": "You are strandet on a planet"
+        ]
     },
     {
         "id": "knightstein",
         "name": "Knight Stein",
+        "status": "prototype",
+        "task": "look into code and rewrite prestige functions",
+        "desc": "Fight your way to the top",
         "sites": [
             {
-                "disabled": true,
                 "id": "git",
                 "name": "Github",
+                "disabled": true,
                 "link": "https://theonewaytruth.github.io/knightstein/"
             },
             {
-                "disabled": false,
                 "id": "site",
                 "name": "My Website",
+                "disabled": false,
                 "link": "https://rpg.wick-alexander.de/"
             }
-        ],
-        "desc": "Fight your way to the top"
+        ]
     },
     {
         "id": "passwordgen",
         "name": "Password Generator",
+        "task": "rewrite whole program",
+        "desc": "generates strong passwords",
         "sites": [
             {
-                "disabled": true,
                 "id": "git",
                 "name": "Github",
+                "disabled": true,
                 "link": "https://theonewaytruth.github.io/passwortgen/"
             },
             {
-                "disabled": false,
                 "id": "site",
                 "name": "My Website",
-                "link": "https://passwort.wick-alexander.de/"
+                "disabled": false,
+                "link": "https://password.wick-alexander.de/"
             }
         ],
-        "desc": "generates strong passwords"
+        "status": "finished"
     },
     {
-        "id": "bibelkenner",
-        "name": "Bible Quiz",
+        "id": "absorber",
+        "name": "Absorber",
+        "task": "fix prestige counter and infinite boss bug",
+        "desc": "Kill your enemies and gain their strength",
         "sites": [
             {
-                "disabled": true,
-                "id": "git",
-                "name": "Github",
-                "link": "https://theonewaytruth.github.io/bibelkenner/"
+                "id": "kong",
+                "name": "Kongregate",
+                "disabled": false,
+                "link": "https://www.kongregate.com/games/DirkF17/absorber"
             },
             {
+                "id": "armor",
+                "name": "Armorgames",
                 "disabled": false,
+                "link": "https://armorgames.com/absorber-game/18907"
+            },
+            {
+                "id": "itch",
+                "name": "Itch.io",
+                "disabled": false,
+                "link": "https://schlauewurst.itch.io/absorber"
+            },
+            {
                 "id": "site",
                 "name": "My Website",
-                "link": "https://bibelkenner.wick-alexander.de/"
+                "disabled": false,
+                "link": "https://absorber.wick-alexander.de/"
             }
         ],
-        "desc": "test your bible knowledge"
+        "status": "finished"
     },
     {
-        "id": "writertool",
-        "name": "Writer Tool",
+        "id": "empireidle",
+        "name": "Emprie Idle",
+        "desc": "Build an Empire",
         "sites": [
             {
-                "disabled": true,
                 "id": "git",
                 "name": "Github",
-                "link": "https://theonewaytruth.github.io/bibelkenner/"
+                "disabled": true,
+                "link": "https://theonewaytruth.github.io/empireidle/"
             },
             {
-                "disabled": false,
                 "id": "site",
                 "name": "My Website",
-                "link": "https://schreib.wick-alexander.de/"
+                "disabled": false,
+                "link": "https://empireidle.wick-alexander.de/"
             }
         ],
-        "desc": "write your own book"
+        "task": "write building functionality",
+        "status": "prototype"
+    },
+    {
+        "id": "novel",
+        "name": "Zombie novel",
+        "desc": "Jens woke up in a world full of zombies can he figure out how he got there?",
+        "sites": [
+            {
+                "id": "site",
+                "name": "My Website",
+                "disabled": false,
+                "link": "https://znovel.wick-alexander.de/"
+            }
+        ],
+        "task": "make timeline",
+        "status": "draft"
     }
 ]
